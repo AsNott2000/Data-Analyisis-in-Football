@@ -1,4 +1,0 @@
-player_id,player_name,season_date,team_name,played_match,team_played_match,minutes_played,goals,xG,assists,xA,shots,aerials_won,defansive_actions,touches,dribbles_attempted,successful_dribble_attempts,chances_created,all_passes,successful_passes,key_pass,offsides
-001,Mauro Icardi,2023/2024,Galatasaray,34,38,2856,25,21.23,8,3.77,104,101,31,758,15,3,10,444,333,44,19
-002,Edin Dzeko,2023/2024,Fenerbahce,36,38,2736,21,21.64,3,5.15,124,118,54,1158,45,18,10,711,498,30,18
-003,Rey Manaj,2023/2024, EMS Yapi Sivasspor,32,38,2432,18,14.34,3,1.48,89,51,38,861,38,23,0,251,143,0,0
